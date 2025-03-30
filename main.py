@@ -5,7 +5,7 @@ from telebot import types
 from gatet import Tele  # Import the Tele function from gatet.py
 
 # Bot configuration
-TOKEN = "(7107039898:AAGvH9P6i_4AyZZuUOUVIVHqBR8XbLzBrho)"  # Replace with your bot token
+TOKEN = "7107039898:AAGvH9P6i_4AyZZuUOUVIVHqBR8XbLzBrho"  # Replace with your bot token
 OWNER_ID = (1419969308)  # Replace with your owner ID
 
 # Initialize the bot
